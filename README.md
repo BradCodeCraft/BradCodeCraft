@@ -16,7 +16,7 @@ Desktop: [MinisForum HX99G](https://store.minisforum.com/products/elitemini-hx99
 
 Headphones: [SoundCore Life Q35](https://www.soundcore.com/products/a3027012?variant=44248572199102)
 
-Keyboard: [Varmilo Minilo 75% (with Kailh Prestige Silent)](https://varmilo.com/products/minilo75?variant=44272593928411)
+Keyboard: [ZSA Moonlander](https://www.zsa.io/moonlander)
 
 Mouse: [Logitech Pro Wireless Gaming Mouse](https://www.logitechg.com/en-us/products/gaming-mice/pro-wireless-mouse.html?srsltid=AfmBOop_Jtv6X0HBMW_foTBawKgOJeEvpXY2KKNjd7I4yDy9ULxHYYTv)
 
