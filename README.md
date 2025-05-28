@@ -18,7 +18,7 @@ Headphones: [SoundCore Life Q35](https://www.soundcore.com/products/a3027012?var
 
 Keyboard: [ZSA Moonlander](https://www.zsa.io/moonlander)
 
-Mouse: [Logitech Pro Wireless Gaming Mouse](https://www.logitechg.com/en-us/products/gaming-mice/pro-wireless-mouse.html?srsltid=AfmBOop_Jtv6X0HBMW_foTBawKgOJeEvpXY2KKNjd7I4yDy9ULxHYYTv)
+Mouse: [Logitech PRO X SUPERLIGHT]([https://www.logitechg.com/en-us/products/gaming-mice/pro-wireless-mouse.html?srsltid=AfmBOop_Jtv6X0HBMW_foTBawKgOJeEvpXY2KKNjd7I4yDy9ULxHYYTv](https://www.logitechg.com/en-us/products/gaming-mice/pro-x-superlight-wireless-mouse.html))
 
 Monitor: [Sceptre E275W-QPT](https://www.amazon.com/gp/product/B08XD4HMDG/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 <!---
